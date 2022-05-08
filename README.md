@@ -1,6 +1,6 @@
 # MusingComet.github.io
 
-**algorithms**
+**algorithms**\n
 **data structures**
 **concurrency**
 **networking**
